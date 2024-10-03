@@ -45,11 +45,13 @@ This is a Telegram bot that supports multiple languages and offers user registra
    ```bash
    python database/configurator.py
 
-#### Running the Bot
+## Running the Bot
 
 To start the bot, run:
 
-`python main.py`
+   ```bash
+   python main.py
+   ```
 
 ## Admin Commands
 

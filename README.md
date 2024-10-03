@@ -49,8 +49,7 @@ This is a Telegram bot that supports multiple languages and offers user registra
 
 To start the bot, run:
 
-    ```bash
-    python main.py
+`python main.py`
 
 ## Admin Commands
 
